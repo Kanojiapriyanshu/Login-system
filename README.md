@@ -10,7 +10,14 @@ A simple React-based Login application with a modern design. This project allows
 - Login form with email and password validation.
 - Seamless navigation using React Router.
 - Backend integration for authentication using Axios.
+## User Information Storage
 
+This project saves user information to the browser's `localStorage` upon registration or login using data received from Node.js APIs. 
+
+### How It Works:
+1. User submits their credentials (e.g., username and password) through the registration or login form.
+2. The front-end makes an API request to the Node.js backend for authentication or registration.
+3. Upon successful response, the user data is saved in the browser's `localStorage`.
 ---
 
 ## Prerequisites
