@@ -1,5 +1,16 @@
 # Login Application
 
+# output 
+
+![page 1](https://github.com/user-attachments/assets/7a850f9b-fb0d-49c9-8366-37624f15578f)
+
+# Registration Page
+![page 2](https://github.com/user-attachments/assets/94398a82-64f7-4e5a-8e92-2c7cb8f932c3)
+
+# Login Page
+![page 3](https://github.com/user-attachments/assets/edffa10d-7234-4641-8220-5f3a5c60ebc7)
+
+
 A simple React-based Login application with a modern design. This project allows users to log in and navigate to a dashboard upon successful authentication.
 
 ---
